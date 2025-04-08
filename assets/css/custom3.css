@@ -1,0 +1,24 @@
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s;
+  -webkit-text-fill-color: #ffffff !important;
+}
+
+#FIRST:-webkit-autofill,
+#FIRST:-webkit-autofill:hover,
+#FIRST:-webkit-autofill:focus,
+#FIRST:-webkit-autofill:active {
+  transition: background-color 5000s;
+  -webkit-text-fill-color: #ffffff !important;
+}
+
+#EMAIL:-webkit-autofill,
+#EMAIL:-webkit-autofill:hover,
+#EMAIL:-webkit-autofill:focus,
+#EMAIL:-webkit-autofill:active {
+  transition: background-color 5000s;
+  -webkit-text-fill-color: none !important;
+}
+
